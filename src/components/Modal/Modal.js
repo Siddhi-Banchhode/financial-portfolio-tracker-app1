@@ -82,7 +82,7 @@ this.setState({
              return null;
            }
 
-           data = firebase.database().ref('/mystock');
+           data = firebase.database().ref('/stock');
           return (
            
         <div>
